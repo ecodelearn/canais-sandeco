@@ -86,3 +86,32 @@ PIX: (62) 98217-8004
 ENVIE O COMPROVANTE PARA ESSE MESMO NÚMERO.
 
 **PARA QUEM MORA FORA DO BRASIL, PAGAMENTO VIA PAYPAL**.
+
+
+---
+
+Regras Reduzidas
+
+---
+
+**REGRAS DE UTILIZAÇÃO DO GRUPO DE SANDECO**
+
+**Objetivo:** Discussão sobre Inteligência Artificial, Ciência de Dados e Computação em Geral.
+
+- *Proibido* conteúdo de racismo, pornografia, ativismo político ou deep fake.  
+- *Proibido* links de outros canais sobre IA que possam conflitar com o conteúdo deste grupo. Sugira novos temas aos administradores.  
+- *Proibido* expressar opiniões sobre política e religião.  
+- *Proibido* ofensas a membros.  
+- Cuidado ao compartilhar links e arquivos; use o **Antivírus Online Gratuito** (https://www.virustotal.com).  
+- *Proibido* propaganda, vendas, ou enquetes sem autorização do administrador.  
+- *Proibido* solicitar pix, inclusive para ajuda relacionada à saúde; contate o administrador.  
+- *Proibido* postar fotos ou vídeos de gosto duvidoso, como mutilações, mortes, ou conteúdo erótico.  
+- *Respeite* a opinião dos outros; não imponha sua opinião.  
+- A **Comunidade Sandeco** e administradores *não se responsabilizam* por transações no grupo.  
+- *Proibido* correntes, mesmo de utilidade pública.  
+- Denuncie infrações ao administrador.  
+- Inatividade por **6 meses** pode resultar em remoção.  
+- Ao postar, você concede à comunidade uma *licença de uso irrestrita* para o conteúdo postado.  
+- O membro que *desrespeitar as regras* será *banido*.
+
+---
