@@ -1,6 +1,6 @@
 **Canal Python Para Iniciantes**
 
-- **Sandeco Python para Iniciantes**: https://chat.whatsapp.com/FrOpXKZYqHw9thUPoZ1V2d  
+- [Sandeco Python para Iniciantes](https://chat.whatsapp.com/FrOpXKZYqHw9thUPoZ1V2d) 
 
 Bem-vindo ao Canal Python Para Iniciantes! Aqui você encontrará materiais de apoio, links para GPT personalizado, e aulas ministradas pelo Sandeco.
 
