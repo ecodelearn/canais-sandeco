@@ -13,7 +13,8 @@
 - **Sandeco IA a Saúde**: https://chat.whatsapp.com/EeKq3MHI5I7H72wpb7RBWm  
 - **Sandeco Pesquisas Científicas**: https://chat.whatsapp.com/K2lJsgD7GH8Hv0DAQDbxkZ  
 - **IA Avançado**: https://chat.whatsapp.com/HTIwR29HkBf9zfR6qPEOV6  
-- **Tópicos Avançados em IA**: https://chat.whatsapp.com/BOmLxbctMGFFbarQ4JOXq7  
+- **Tópicos Avançados em IA**: https://chat.whatsapp.com/BOmLxbctMGFFbarQ4JOXq7
+- **Sandeco Freelancer e Oportunidades**: https://chat.whatsapp.com/Hr8ucdQOzyTLi1YI5zM1V9
 
 ---
 
