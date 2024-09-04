@@ -1,6 +1,7 @@
 **Todos os links do canal Sandeco**
 
-- **Canal Sandeco**: https://chat.whatsapp.com/CAT99zebiU851jhPZWv2gK  
+- **Canal Sandeco**: https://chat.whatsapp.com/CAT99zebiU851jhPZWv2gK
+- **Sandeco IA na Educação**: https://chat.whatsapp.com/Lo1jSU49DiuD91WUKkFdgt
 - **Sandeco IA e Marketing**: https://chat.whatsapp.com/IgoUmrboQxTJtrz5uCeJq3  
 - **SANDECO - AGENTES E GPTS**: https://chat.whatsapp.com/CZDrT4XQWzhGbnmilAQaF1  
 - **SANDECO - PROMPTS e GPT´s**: https://chat.whatsapp.com/CHSHD31NE6sKrzJOjuP2z0  
