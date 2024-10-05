@@ -16,7 +16,7 @@
 - **IA Avançado**: https://chat.whatsapp.com/Kl4eYf0rLR6GOiendAcfXI
 - **Tópicos Avançados em IA**: https://chat.whatsapp.com/B6vKOQu6V3O07uE5Mk1871
 - **Sandeco Freelancer e Oportunidades**: https://chat.whatsapp.com/EJV53FF9Zmj8MWy8GjQIaj
-
+- **Agentes Inteligentes**: https://chat.whatsapp.com/IPaTVxX2Me4AZmF77shCj8
 ---
 
 **Grupo do Livro de Imagens - Livro do Sandeco**
