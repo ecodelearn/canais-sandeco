@@ -1,4 +1,4 @@
-**Todos os links do canal Sandeco**
+**Todos os links dos Grupos WhatsApp do Canal Sandeco**
 
 - **Canal Sandeco**: https://chat.whatsapp.com/Imub1NptQT75lsviHaFteJ
 - **Sandeco IA na Educação**: https://chat.whatsapp.com/IYYJAhWDmKjF36KbMR54dM
