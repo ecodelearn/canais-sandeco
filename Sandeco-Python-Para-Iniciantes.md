@@ -24,7 +24,7 @@ Aprenda a usar o Git e o GitHub com nosso guia prático: [Guia para instalação
 
 ### 💖 Como você pode ajudar?
 
-Se você gosta do nosso conteúdo, considere fazer uma doação! Isso nos ajuda a manter o guia atualizado e gratuito, desenvolver novos recursos, e apoiar a comunidade de desenvolvedores Python. Agradecemos imensamente qualquer contribuição, não importa o valor. Seu apoio faz a diferença!
+Se você gosta do nosso conteúdo, considere fazer uma doação! Isso nos ajuda a manter o guia atualizado e gratuito, desenvolver novos recursos, e apoiar a comunidade de desenvolvedores Python. Agradecemos imensamente qualquer contribuição, não importa o valor. Seu apoio faz a diferença! Os links para doação estão no site e dentro do GPT Personalizado, basta clicar em comçar e vai encontrar no final do texto.
 
 ### 🎓 Aulas do Sandeco
 
