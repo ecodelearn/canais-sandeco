@@ -2,22 +2,22 @@
 
 ## LIVROS SANDECO
 
-1. **ORANGE CANVAS**  
-   **VALOR:** R$ 100,00  
-   **ACESSO AO GRUPO DE WHATSAPP DO LIVRO**  
-   [Sumário do Livro](https://github.com/ecodelearn/canais-sandeco/blob/81087707d5272d9746c92521f1df0c7f637877e3/Orange%20Sum%C3%A1rio.pdf)
-
-2. **DEEP LEARNING - VISÃO COMPUTACIONAL**  
-   **VALOR:** R$ 100,00  
-   **BÔNUS:** GRAVAÇÃO DA MENTORIA EXPLICANDO TODO O LIVRO  
-   **ACESSO AO GRUPO DE WHATSAPP DO LIVRO**  
-   [Sumário do Livro](https://github.com/ecodelearn/canais-sandeco/blob/81087707d5272d9746c92521f1df0c7f637877e3/Deep%20Learning%20-%20Sum%C3%A1rio.pdf)
-
-3. **ENGENHARIA DE PROMPTS**  
+1. **ENGENHARIA DE PROMPTS**  
    **VALOR:** R$ 100,00  
    **BÔNUS:** ACESSO A GRAVAÇÃO DO CURSO BENEFICENTE DE ORANGE CANVAS E DO CURSO DE DATA SCIENCE COM CHATGPT  
    **ACESSO AO GRUPO DE WHATSAPP DO LIVRO**  
    [Sumário do Livro](https://github.com/ecodelearn/canais-sandeco/blob/81087707d5272d9746c92521f1df0c7f637877e3/Engenharia%20de%20Prompts%20-%20Cap3%20Gerador%20de%20Prompts.pdf)
+ 
+2. **ORANGE CANVAS**  
+   **VALOR:** R$ 100,00  
+   **ACESSO AO GRUPO DE WHATSAPP DO LIVRO**  
+   [Sumário do Livro](https://github.com/ecodelearn/canais-sandeco/blob/81087707d5272d9746c92521f1df0c7f637877e3/Orange%20Sum%C3%A1rio.pdf)
+
+3. **DEEP LEARNING - VISÃO COMPUTACIONAL**  
+   **VALOR:** R$ 100,00  
+   **BÔNUS:** GRAVAÇÃO DA MENTORIA EXPLICANDO TODO O LIVRO  
+   **ACESSO AO GRUPO DE WHATSAPP DO LIVRO**  
+   [Sumário do Livro](https://github.com/ecodelearn/canais-sandeco/blob/81087707d5272d9746c92521f1df0c7f637877e3/Deep%20Learning%20-%20Sum%C3%A1rio.pdf)
 
 4. **AGENTES INTELIGENTES - CREWAI - VOLUME 1**  
    **VALOR:** R$ 100,00  
