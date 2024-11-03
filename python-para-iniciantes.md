@@ -10,6 +10,12 @@ Para complementar suas aulas, disponibilizamos um PDF de apoio que você pode ac
 
 - [Link do PDF de Apoio](https://drive.google.com/file/d/1Ao5YqpqkkPWdQ0H8VzeMd0ZAqXJCFmit/view?usp=sharing)
 
+**Guia de Criação de Git e GitHub**
+
+Aprenda a criar e utilizar o Git e GitHub com um guia prático disponível no link abaixo:
+
+- [Guia de Git e GitHub](https://linuxgo.com.br/)
+
 **GPT Personalizado - Introdução ao Python**
 
 Utilize o GPT personalizado para aprofundar seus conhecimentos em Python para Iniciantes. Este GPT foi configurado especialmente para atender as necessidades dos iniciantes.
@@ -22,6 +28,3 @@ Abaixo estão os links para as aulas conduzidas pelo Sandeco, tanto no Google Co
 
 - **Aula 01 - Google Colab**: [Aula 01 Google Colab](https://colab.research.google.com/drive/1IgI2B71G0y-y4ZUwrIfzj_LmVZPcfCgE?usp=sharing)
 - **Vídeo da Aula 01**: [Vídeo da Aula no YouTube](https://youtube.com/live/PtpL9AFW5gs)
-
-
-
