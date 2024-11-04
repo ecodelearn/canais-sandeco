@@ -8,8 +8,7 @@
 - **Sandeco Agentes e Prompts**: https://chat.whatsapp.com/CxvuBQ1DnfhCVw5h9Ro9IM  
 - **Sandeco Agentes e Prompts 2**: https://chat.whatsapp.com/J8JWuVaa8E85rdb1ZFtSz9  
 - **Sandeco Imagens IA**: https://chat.whatsapp.com/FZFz6zwViqz7zkvzzbNnbw 
-- **Sandeco IA no Direito**:
-Acesse este link para entrar no meu grupo do WhatsApp: https://chat.whatsapp.com/GhMXJrJoJLh3TNf1VavLPW
+- **Sandeco IA no Direito**: https://chat.whatsapp.com/GhMXJrJoJLh3TNf1VavLPW
 - **Sandeco Músicas Por IA**: https://chat.whatsapp.com/LITCGBatJN17zB8d78Er4h
 - **Sandeco Python para Iniciantes**: https://chat.whatsapp.com/FZiM8oiXKYY06XkG4e4Cjm 
 - **Sandeco IA a Saúde**: https://chat.whatsapp.com/I5EnuLm1jYf3WUGbZThNef
