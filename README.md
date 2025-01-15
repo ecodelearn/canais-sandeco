@@ -1,49 +1,45 @@
-## LIVROS SANDECO
+# Canais Sandeco
 
-1. **ENGENHARIA DE PROMPTS**  
-   **VALOR:** R$ 100,00  
-   **BÔNUS:** ACESSO A GRAVAÇÃO DO CURSO BENEFICENTE DE ORANGE CANVAS E DO CURSO DE DATA SCIENCE COM CHATGPT  
-   **ACESSO AO GRUPO DE WHATSAPP DO LIVRO**  
-   [Sumário do Livro](https://github.com/ecodelearn/canais-sandeco/blob/81087707d5272d9746c92521f1df0c7f637877e3/Engenharia%20de%20Prompts%20-%20Cap3%20Gerador%20de%20Prompts.pdf)
- 
-2. **ORANGE CANVAS**  
-   **VALOR:** R$ 100,00  
-   **ACESSO AO GRUPO DE WHATSAPP DO LIVRO**  
-   [Sumário do Livro](https://github.com/ecodelearn/canais-sandeco/blob/81087707d5272d9746c92521f1df0c7f637877e3/Orange%20Sum%C3%A1rio.pdf)
+Bem-vindo ao repositório dos Canais Sandeco! Aqui você encontrará diversos arquivos importantes para a comunidade, incluindo regras, informações sobre livros, links úteis, playlists e materiais de apoio.
 
-3. **DEEP LEARNING - VISÃO COMPUTACIONAL**  
-   **VALOR:** R$ 100,00  
-   **BÔNUS:** GRAVAÇÃO DA MENTORIA EXPLICANDO TODO O LIVRO  
-   **ACESSO AO GRUPO DE WHATSAPP DO LIVRO**  
-   [Sumário do Livro](https://github.com/ecodelearn/canais-sandeco/blob/81087707d5272d9746c92521f1df0c7f637877e3/Deep%20Learning%20-%20Sum%C3%A1rio.pdf)
+## Arquivos Disponíveis
 
-4. **AGENTES INTELIGENTES - CREWAI - VOLUME 1**  
-   **VALOR:** R$ 100,00  
-   **BÔNUS:** MENTORIA SOBRE O LIVRO  
-   **ACESSO AO GRUPO DE WHATSAPP DO LIVRO**  
-   [Sumário do Livro](https://github.com/ecodelearn/canais-sandeco/blob/81087707d5272d9746c92521f1df0c7f637877e3/CrewAI%20-%20Primeiro%20Cap%C3%ADtulo.pdf)
+### 1. Regras da Comunidade Sandeco
 
-5. **PYTHON PARA INTELIGÊNCIA ARTIFICIAL**  
-   *Tudo o que você precisa saber do Python antes de criar suas IAs*  
-   **VALOR:** R$ 100,00  
-   **BÔNUS:** MENTORIA SOBRE O LIVRO  
-   **SERÃO 4 ENCONTROS:** 05/10 E 12/10 ENTRE 8H ATÉ 18H.  
-   **ACESSO AO GRUPO DE WHATSAPP DO LIVRO**  
-   [Sumário do Livro](https://github.com/ecodelearn/canais-sandeco/blob/81087707d5272d9746c92521f1df0c7f637877e3/Python%20para%20Intelig%C3%AAncia%20Artificial%20-%20Sum%C3%A1rio.pdf)
+Este arquivo contém as regras detalhadas que todos os membros da comunidade devem seguir.
 
-6. **AGENTES INTELIGENTES 2 - CREWAI INTERMEDIÁRIO**  
-   **VALOR:** R$ 100,00  
-   **BÔNUS:** INTENSIVO DO LIVRO, 06 ENCONTROS COMEÇANDO DIA 20/09  
-   **ACESSO AO GRUPO DE WHATSAPP DO LIVRO**  
-   [Sumário do Livro](https://github.com/ecodelearn/canais-sandeco/blob/main/Cap1CrewAI2Intermedi%C3%A1rio.pdf)
+- [Regras da Comunidade Sandeco](https://github.com/ecodelearn/canais-sandeco/blob/main/regras.md)
 
----
+### 2. Regras Reduzidas da Comunidade Sandeco
 
-### COMO COMPRAR OS LIVROS:  
-FAÇA UM PIX PARA **RAFAEL OLIVEIRA DE MACEDO**  
-PIX: (62) 98217-8004  
-ENVIE O COMPROVANTE PARA ESSE MESMO NÚMERO.
+Este arquivo contém uma versão compacta das regras, ideal para compartilhamento em plataformas com limite de caracteres.
 
-**PARA QUEM MORA FORA DO BRASIL, PAGAMENTO VIA PAYPAL.**
+- [Regras Reduzidas da Comunidade Sandeco](https://github.com/ecodelearn/canais-sandeco/blob/main/regras-reduzidas.md)
 
----
+### 3. Links da Comunidade Sandeco
+
+Aqui você encontrará todos os links importantes relacionados aos canais da comunidade, organizados de forma clara.
+
+- [Links da Comunidade Sandeco](https://github.com/ecodelearn/canais-sandeco/blob/main/links-da-comunidade.md)
+
+### 4. Livros Sandeco
+
+Este arquivo contém informações sobre os livros disponíveis na comunidade Sandeco, incluindo detalhes sobre aquisição e acesso.
+
+- [Livros Sandeco](https://github.com/ecodelearn/canais-sandeco/blob/main/livros-sandeco.md)
+
+### 5. Playlists e Vídeos
+
+Neste arquivo, você encontrará uma lista de playlists e vídeos recomendados sobre diversos tópicos, como Inteligência Artificial, Deep Learning e Redes Neurais.
+
+- [Playlists e Vídeos](https://github.com/ecodelearn/canais-sandeco/blob/main/playlists-e-videos.md)
+
+### 6. Python para Iniciantes
+
+Este arquivo fornece materiais de apoio para o curso "Python para Iniciantes", incluindo links para aulas e GPTs personalizados.
+
+- [Python para Iniciantes](https://github.com/ecodelearn/canais-sandeco/blob/main/python-para-iniciantes.md)
+
+## Sobre o Repositório
+
+Este repositório foi criado para organizar e centralizar as informações essenciais da comunidade Sandeco. Sinta-se à vontade para explorar os arquivos e utilizar os links fornecidos.
