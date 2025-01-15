@@ -2,7 +2,8 @@
 
 - **Canal Sandeco**: https://chat.whatsapp.com/Imub1NptQT75lsviHaFteJ
 - **Sandeco IA na Educação**: https://chat.whatsapp.com/IYYJAhWDmKjF36KbMR54dM
-- **Sandeco IA e Marketing**: https://chat.whatsapp.com/DShvWcQSel11csMi7udGTQ  
+- **Sandeco IA e Marketing**: https://chat.whatsapp.com/DShvWcQSel11csMi7udGTQ
+- **Sandeco Marketing e IA 2**: https://chat.whatsapp.com/KEnGPDGkSDrGbJKYVOA3pE
 - **SANDECO - AGENTES E GPTS**: https://chat.whatsapp.com/ECmhrWXMWhoFRfqIZpC2MS  
 - **SANDECO - PROMPTS e GPT´s**: https://chat.whatsapp.com/I0WqmA5c6Cq5CvAyvURkDy  
 - **Sandeco Agentes e Prompts**: https://chat.whatsapp.com/CxvuBQ1DnfhCVw5h9Ro9IM  
