@@ -31,6 +31,7 @@
 - **Sandeco Agentes e IA**: [https://chat.whatsapp.com/ISanTG9F6DQLLRetf5JUdA](https://chat.whatsapp.com/ISanTG9F6DQLLRetf5JUdA)
 - **Sandeco Agentes de IA**: [https://chat.whatsapp.com/Cg6AWFCOIxiKpjUl8mICiz](https://chat.whatsapp.com/Cg6AWFCOIxiKpjUl8mICiz)
 - **Agentes Inteligentes**: [https://chat.whatsapp.com/IPaTVxX2Me4AZmF77shCj8](https://chat.whatsapp.com/IPaTVxX2Me4AZmF77shCj8)
+- **Sandeco IA no Meio Ambiente**: [https://chat.whatsapp.com/DldCZzSockA6Mga1l8EDCt](https://chat.whatsapp.com/DldCZzSockA6Mga1l8EDCt)
 
 ---
 
