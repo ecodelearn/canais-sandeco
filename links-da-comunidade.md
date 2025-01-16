@@ -43,7 +43,7 @@
 ---
 
 ### 🖼️ **IA em Imagens**
-- **Sandeco Imagens IA**: [https://chat.whatsapp.com/FZFz6zwViqz7zkvzzbNnbw](https://chat.whatsapp.com/FZFz6zwViqz7zkvzzbNnbw)
+- **Sandeco Imagens e Videos IA**: [https://chat.whatsapp.com/FZFz6zwViqz7zkvzzbNnbw](https://chat.whatsapp.com/FZFz6zwViqz7zkvzzbNnbw)
 
 ---
 
