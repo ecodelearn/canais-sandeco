@@ -20,6 +20,7 @@
 - **Sandeco Músicas Por IA**: [https://chat.whatsapp.com/LITCGBatJN17zB8d78Er4h](https://chat.whatsapp.com/LITCGBatJN17zB8d78Er4h)
 - **Sandeco Engenharias e IA**: [https://chat.whatsapp.com/DldCZzSockA6Mga1l8EDCt](https://chat.whatsapp.com/DldCZzSockA6Mga1l8EDCt)
 - **Sandeco IA no Meio Ambiente**: [https://https://chat.whatsapp.com/JXuV3xZIYky5ZJjv9haWnW](https://chat.whatsapp.com/JXuV3xZIYky5ZJjv9haWnW)
+- **Sandeco IA e Ética**:[https://chat.whatsapp.com/KkaCYQ2B40i0W2l0GTtpGy](https://chat.whatsapp.com/KkaCYQ2B40i0W2l0GTtpGy)
 
 ---
 
