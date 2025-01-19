@@ -19,7 +19,7 @@
 - **Sandeco Marketing e IA 2**: [https://chat.whatsapp.com/KEnGPDGkSDrGbJKYVOA3pE](https://chat.whatsapp.com/KEnGPDGkSDrGbJKYVOA3pE)
 - **Sandeco Músicas Por IA**: [https://chat.whatsapp.com/LITCGBatJN17zB8d78Er4h](https://chat.whatsapp.com/LITCGBatJN17zB8d78Er4h)
 - **Sandeco Engenharias e IA**: [https://chat.whatsapp.com/DldCZzSockA6Mga1l8EDCt](https://chat.whatsapp.com/DldCZzSockA6Mga1l8EDCt)
-- **Sandeco IA no Meio Ambiente**: [https://chat.whatsapp.com/JU917sbZs3U3s1RDTdKpkd](https://chat.whatsapp.com/JU917sbZs3U3s1RDTdKpkd)
+- **Sandeco IA no Meio Ambiente**: [https://https://chat.whatsapp.com/JXuV3xZIYky5ZJjv9haWnW](https://chat.whatsapp.com/JXuV3xZIYky5ZJjv9haWnW)
 
 ---
 
