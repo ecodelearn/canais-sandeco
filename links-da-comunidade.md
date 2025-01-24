@@ -11,6 +11,7 @@
 ---
 
 ### 🎓 **IA Aplicada a Áreas Específicas**
+- **Sandeco IA no Agro**: https://chat.whatsapp.com/EaFSdgq91feIYF7ZGtC7bo
 - **Sandeco IA na Educação**: https://chat.whatsapp.com/IYYJAhWDmKjF36KbMR54dM  
 - **Sandeco IA no Direito**: https://chat.whatsapp.com/GhMXJrJoJLh3TNf1VavLPW  
 - **Sandeco Direito e IA 2**: https://chat.whatsapp.com/CKumArBi8xj1d5gTYPpNuK  
