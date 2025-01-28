@@ -1,7 +1,7 @@
 📓 Livros do Sandeco Macedo
 
-![Trilha de Estudos](https://raw.githubusercontent.com/sandeco/trabalho/main/melhor_trilha.jpeg)
-https://raw.githubusercontent.com/sandeco/trabalho/main/melhor_trilha.jpeg
+![Trilha de Estudos](https://raw.githubusercontent.com/ecodelearn/canais-sandeco/main/melhor_trilha.jpeg)
+https://raw.githubusercontent.com/ecodelearn/canais-sandeco/main/melhor_trilha.jpeg
 
 Fluxo Ideal de Leitura:
 
@@ -15,7 +15,9 @@ Fluxo Ideal de Leitura:
 
 Outros Livros:
 
-• Orange Canvas - IA Visual • Deep Learning - Agentes de Visão Computacional
+• Orange Canvas - IA Visual
+
+• Deep Learning - Agentes de Visão Computacional
 
 💰 Valor: R$ 100,00 cada livro.
 
