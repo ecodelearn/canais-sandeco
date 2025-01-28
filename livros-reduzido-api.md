@@ -1,5 +1,6 @@
 📚 Livros do Sandeco Macedo
 
+![Trilha de Estudos](https://raw.githubusercontent.com/sandeco/trabalho/main/melhor_trilha.jpeg)
 https://raw.githubusercontent.com/sandeco/trabalho/main/melhor_trilha.jpeg
 
 Fluxo Ideal de Leitura:
