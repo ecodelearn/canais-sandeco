@@ -1,7 +1,7 @@
 📓 Livros do Sandeco Macedo
 
-![Trilha de Estudos](https://raw.githubusercontent.com/ecodelearn/canais-sandeco/main/melhor_trilha.jpeg)
-https://raw.githubusercontent.com/ecodelearn/canais-sandeco/main/melhor_trilha.jpeg
+![Trilha de Estudos](https://linuxgo.com.br/img/melhor_trilha.jpeg)
+https://linuxgo.com.br/img/melhor_trilha.jpeg
 
 Fluxo Ideal de Leitura:
 
