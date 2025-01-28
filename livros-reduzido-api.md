@@ -1,5 +1,7 @@
 📚 Livros do Sandeco Macedo
 
+https://raw.githubusercontent.com/sandeco/trabalho/main/melhor_trilha.jpeg
+
 Fluxo Ideal de Leitura:
 
 1️⃣ Prompts em Ação
