@@ -1,6 +1,8 @@
+![Trilha de Estudos](https://raw.githubusercontent.com/ecodelearn/canais-sandeco/main/melhor_trilha.jpeg)
+
+
 📓 Livros do Sandeco Macedo
 
-![Trilha de Estudos](https://raw.githubusercontent.com/ecodelearn/canais-sandeco/main/melhor_trilha.jpeg)
 
 Fluxo Ideal de Leitura:
 1️⃣ Prompts em Ação
