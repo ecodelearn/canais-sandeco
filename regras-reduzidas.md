@@ -2,6 +2,7 @@
 
 O propósito do grupo é discutir **Inteligência Artificial, Ciência de Dados e o Desenvolvimento da Computação em Geral**.
 
+- **Proibido** **Bots** Serão banidos!!!
 - **Proibido** postar mensagens com conteúdo de racismo, pornografia ou ativismo político, bem como solicitar ou divulgar vídeos de conteúdo deep fake.
 - **Proibido** publicar links para vídeos ou conteúdos de outros canais sobre inteligência artificial que possam conflitar com o conteúdo deste canal. Sugira novos temas aos administradores.
 - **Proibido** expressar opiniões pessoais sobre assuntos políticos e religiosos.
@@ -17,5 +18,4 @@ O propósito do grupo é discutir **Inteligência Artificial, Ciência de Dados 
 - Inatividade por **6 meses** pode resultar em remoção.
 - Ao postar mensagens na **Comunidade Sandeco**, você concede automaticamente à comunidade uma **licença de uso irrestrita**, perpétua, mundial e livre de royalties para exibição, transmissão, reprodução, adaptação, e exploração do conteúdo postado.
 - Membros que **desrespeitarem as regras** serão **banidos**.
-
----
+  
