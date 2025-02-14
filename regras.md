@@ -17,5 +17,5 @@
 - Caso o membro do canal fique mais de **6 meses** sem nenhuma interação no grupo, ele poderá ser removido.  
 - Ao postar mensagens em qualquer seção da **Comunidade Sandeco**, você concede automaticamente à comunidade e seus parceiros uma *licença de uso irrestrita*, perpétua, mundial e livre de royalties para exibição, transmissão, reprodução, adaptação, subcessão de uso e exploração do conteúdo postado.  
 - O membro que *desrespeitar qualquer uma das cláusulas* acima será *banido*.
-
----
+- *Robôs* serão banidos!
+- Essa é uma *mensagem automática* não responda este contato.
